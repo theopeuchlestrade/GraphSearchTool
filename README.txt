@@ -1,3 +1,7 @@
+Le programme GraphSearchTool a été réalisé par Théo Peuchlestrade et Loris Van Katwijk dans le cadre d'un projet de seconde année de classe préparatoire intégrée de l'ISIMA.
+
+GraphSearchTool permet l'exploration en profondeur de graphes en présence de conflits entre arêtes.
+
 Une zone de saisie vous permet de choisir le nombre de noeuds que vous souhaitez avoir pour votre graphe genere aleatoirement. La valeur maximale est 1000.
 
 Le bouton "Generer aleatoirement un graphe" vous permet de generer un graphe de maniere aleatoire en ayant prealablement specifie le nombre de noeuds que vous souhaitez dans celui-ci a l'aide de la zone de saisie.
