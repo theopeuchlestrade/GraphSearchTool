@@ -1,3 +1,6 @@
+Graph Search Tool © 2021 Théo Peuchlestrade and Loris Van Katwijk
+
+
 Le programme GraphSearchTool a été réalisé par Théo Peuchlestrade et Loris Van Katwijk dans le cadre d'un projet de seconde année de classe préparatoire intégrée de l'ISIMA.
 
 GraphSearchTool permet l'exploration en profondeur de graphes en présence de conflits entre arêtes.
