@@ -16,11 +16,11 @@ from tkinter.filedialog import *
 #             ╱╱╱╱╱╱╱╱╱┃┃
 #             ╱╱╱╱╱╱╱╱╱╰╯
 #
-#   Projet réalisé dans le cadre de la seconde année de Prep'ISIMA - Année 2020-2021
+#   Projet réalisé dans le cadre de la seconde année de classe préparatoire intégrée de l'ISIMA
 #
 #   Intitulé du projet : Algorithme d’exploration en profondeur d'un réseau en présence de conflits entre plusieurs arêtes
 #
-#   Projet réalisé par Loris VAN KATWIJK et Théo PEUCHLESTRADE 
+#   Graph Search Tool © 2021 Théo Peuchlestrade and Loris Van Katwijk
 #
 #===================================================================================================================================
 
